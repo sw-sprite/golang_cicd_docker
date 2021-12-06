@@ -1,0 +1,1 @@
+trying out github actions with docker and golang
